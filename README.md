@@ -1,6 +1,6 @@
-# Sistema Bancário Java
+# BankOfBank - Sistema bancário java.
 
-Este projeto Java implementa um sistema bancário simples com funcionalidades básicas de gerenciamento de contas e operações bancárias.
+Este projeto Java implementa um sistema bancário simples com funcionalidades básicas de gerenciamento de contas e operações bancárias, utilizando interface gráfica java.
 
 ## Funcionalidades
 
